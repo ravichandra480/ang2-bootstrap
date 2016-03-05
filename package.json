@@ -1,0 +1,27 @@
+{
+  "name": "ang2-bootstrap",
+  "version": "1.0.0",
+  "description": "AngularJs 2.0 bootstrap components",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravichandra480/ang2-bootstrap.git"
+  },
+  "keywords": [
+    "angularjs2.0"
+  ],
+  "author": "Ravi Chandra Ravulapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravichandra480/ang2-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ravichandra480/ang2-bootstrap#readme",
+  "dependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {}
+}
